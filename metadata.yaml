@@ -5,12 +5,17 @@ contributor:
     agent_name: Castelín, Enrique Soms y
     gutenberg_agent_id: '54046'
     url: http://www.gutenberg.org/2009/agents/54046
+covers:
+- cover_type: archival
+  image_path: 66949-h/images/cover.jpg
 creator:
   author:
     agent_name: Jenofonte
     gutenberg_agent_id: '54045'
     url: http://www.gutenberg.org/2009/agents/54045
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66949#Las-Helenicas-o-Historia-griega-Desde-el-ano-411-hasta-el-362-antes-de-Jesucristo
 gutenberg_issued: '2021-12-16'
 identifiers:
   gutenberg: '66949'
